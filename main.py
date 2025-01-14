@@ -52,3 +52,4 @@ if button and openai_api_key and "df" in st.session_state:
             create_chart(response_dict["scatter"], "scatter")
 
 
+
