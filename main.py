@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-from altair import data_transformers
 
 from utils import dataframe_agent
 
